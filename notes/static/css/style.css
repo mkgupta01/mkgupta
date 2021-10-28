@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding-left: 23px;
+    padding-right: 23px;
+    font-family: 'Roboto', sans-serif;
+}
+#title{
+    padding-left: 50px;
+    color: rgb(6, 6, 105);
+    font-size: 45px;
+    font-style: inherit; 
+    border-bottom: 3px solid #7dc0e7;
+    margin:35px;
+    
+}
+.block{
+    position: relative;
+    margin: 12px;
+    padding:12px 0;
+    background-color: #d4dfe6;
+    border: 2px solid rgb(6, 6, 105);
+    height: 40px;    
+    border-radius: 7px;   
+}
+#topic{
+    display: inline;
+    font-size: 18px;
+    color: rgb(6, 6, 105);
+    position: relative;
+    padding:22px;
+    top:20%
+}
+#btn{
+    background-color: rgb(6, 6, 105);
+    border: 3px solid rgb(6, 6, 105);
+    text-decoration: none;
+    display: inline;
+    font-size:15px;
+    position: absolute;
+    right:55px;
+    top:20%;
+    color:whitesmoke;
+    margin: 7px 7px;
+}
+    
